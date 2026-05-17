@@ -1,4 +1,4 @@
-![Top Languages](https://timercrack-readme-stats.vercel.app/api/top-langs/?username=timercrack&theme=vue-dark&layout=compact&langs_count=10&exclude_repo=dashboard&size_weight=0.7&count_weight=0.3&locale=cn&card_width=500)
+![Top Languages](https://timercrack-readme-stats.vercel.app/api/top-langs/?username=timercrack&theme=vue-dark&layout=compact&langs_count=10&hide=c,html&exclude_repo=dashboard&size_weight=0.7&count_weight=0.3&locale=cn&card_width=500)
 
 ![timercrack's GitHub stats](https://timercrack-readme-stats.vercel.app/api?username=timercrack&show_icons=true&theme=vue-dark&locale=cn&hide=contribs&card_width=500)
 
